@@ -8,9 +8,9 @@
 Бот с санкционными софтом с быстрым доступом к ним.
 ```
 
-![logo](https://raw.githubusercontent.com/pijawca/pijawca/main/resources/Снимок%20экрана%202023-09-30%20в%2013.04.19.png)
+![logo](https://raw.githubusercontent.com/pijawca/pijawca/main/resources/logo.png)
 
->![preview](https://i.ibb.co/0fDZYQF/2023-08-05-22-12-08.png) <font size="1"> P.S соответствующий код может отличаться от скриншота.</font>
+>![preview](https://raw.githubusercontent.com/pijawca/pijawca/main/resources/Снимок%20экрана%202023-09-30%20в%2013.04.19.png) <font size="1"> P.S соответствующий код может отличаться от скриншота.</font>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
